@@ -1,4 +1,5 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdals3406)](https://solved.ac/wjdals3406)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdals3406)](https://solved.ac/wjdals3406)
+
 
 <!--
 **wjdals3406/wjdals3406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
